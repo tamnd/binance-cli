@@ -1,0 +1,10 @@
+title       = "binance"
+baseURL     = "https://binance-cli.tamnd.com/"
+description = "A command line for binance."
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/binance-cli"
